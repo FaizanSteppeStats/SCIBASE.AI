@@ -56,4 +56,4 @@ Provider documentation: https://europepmc.org/RestfulWebService
 
 Import `search`, `csl_json`, and `ris` from `citations.py`. `search()` returns a packet with provenance, warnings and normalized `items`. Keep the human selection step before passing items to an export function. A future editor or model can consume this same packet without coupling discovery to a particular AI provider.
 
-AI-assisted implementation, locally tested. Bounty eligibility and acceptance remain a maintainer decision; this module makes no payment claim.
+Locally tested. Bounty eligibility and acceptance remain a maintainer decision; this module makes no payment claim.
