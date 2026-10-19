@@ -1,0 +1,194 @@
+{
+  "provider": "Europe PMC",
+  "query": "TITLE:\"malaria\"",
+  "request_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE%3A%22malaria%22%29+AND+OPEN_ACCESS%3AY&format=json&resultType=core&pageSize=5",
+  "retrieved_at": "2026-10-19T02:05:32.934675+00:00",
+  "ranking": "local token overlap within retrieved candidates",
+  "notice": "Candidate matches do not establish support for a claim. Verify each source. No AI inference is used.",
+  "warnings": [],
+  "items": [
+    {
+      "id": "MED:30855917",
+      "title": "Relapsing Malaria",
+      "authors": [
+        {
+          "family": "Menkin-Smith",
+          "given": "Lacey"
+        },
+        {
+          "family": "Koval",
+          "given": "Kathryn"
+        },
+        {
+          "family": "Samandari",
+          "given": "Taraz"
+        }
+      ],
+      "year": "2026",
+      "journal": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "",
+      "abstract": "Malaria is a significant global health problem with a substantial disease burden worldwide. In 2024, there were approximately 282 million cases of malaria, responsible for about 610,000 deaths, the majority on the African continent.[WHO. World Malaria Report 2025] Malaria results from infection with single-celled parasites belonging to the Plasmodium genus. The 6 species of Plasmodium that are known to cause disease in humans include P falciparum, P vivax, P ovale curtisi, P ovale wallikeri, P malariae, and P knowlesi. Relapsing malaria is caused by P vivax, P ovale curtisi, and P ovale wallikeri (the latter 2 are referred to as P ovale in much of this article). Globally, Plasmodium falciparum and Plasmodium vivax account for the majority of malaria cases. While Plasmodium falciparum is responsible for far more deaths, Plasmodium vivax is the most geographically widespread of all of the malaria species, can cause severe, even fatal infections, and resulted in an estimated 9.9 million cases in 2024. P ovale is less geographically widespread and much less common than P vivax, rarely causing severe disease.",
+      "publication_types": [
+        "Study Guide"
+      ],
+      "open_access": true,
+      "url": "https://europepmc.org/article/MED/30855917",
+      "warnings": [
+        "Journal unavailable; verify publication type before submitting."
+      ],
+      "matched_terms": [
+        "malaria"
+      ],
+      "context_overlap": 0.3333
+    },
+    {
+      "id": "PMC:PMC13654362",
+      "title": "Airport malaria at Frankfurt airport: once again!",
+      "authors": [
+        {
+          "family": "Antinori",
+          "given": "Spinello"
+        },
+        {
+          "family": "Rodriguez-Morales",
+          "given": "Alfonso J."
+        },
+        {
+          "family": "Schlagenhauf",
+          "given": "Patricia"
+        }
+      ],
+      "year": "2026",
+      "journal": "New microbes and new infections",
+      "volume": "73",
+      "issue": "",
+      "pages": "",
+      "doi": "",
+      "abstract": "",
+      "publication_types": [
+        "Editorial"
+      ],
+      "open_access": true,
+      "url": "https://europepmc.org/article/PMC/PMC13654362",
+      "warnings": [
+        "Abstract unavailable; context matching uses title only."
+      ],
+      "matched_terms": [
+        "malaria"
+      ],
+      "context_overlap": 0.3333
+    },
+    {
+      "id": "PMC:PMC13641346",
+      "title": "Mobility hinders malaria elimination goals in the Brazilian Amazon",
+      "authors": [
+        {
+          "family": "Arisco",
+          "given": "Nicholas J."
+        },
+        {
+          "family": "Fontoura",
+          "given": "Pablo S."
+        },
+        {
+          "family": "Peterka",
+          "given": "Cassio"
+        },
+        {
+          "family": "Castro",
+          "given": "Marcia C."
+        }
+      ],
+      "year": "2026",
+      "journal": "PLoS computational biology",
+      "volume": "22",
+      "issue": "10",
+      "pages": "",
+      "doi": "",
+      "abstract": "",
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "open_access": true,
+      "url": "https://europepmc.org/article/PMC/PMC13641346",
+      "warnings": [
+        "Abstract unavailable; context matching uses title only."
+      ],
+      "matched_terms": [
+        "malaria"
+      ],
+      "context_overlap": 0.3333
+    },
+    {
+      "id": "PPR:PPR1300167",
+      "title": "Spatial Resampling Obscures Temporal Change in Malaria Prevalence: Evidence from Simulated Malaria Indicator Surveys",
+      "authors": [
+        {
+          "family": "Kamwezi",
+          "given": "Richard"
+        },
+        {
+          "family": "Mategula",
+          "given": "Donnie"
+        },
+        {
+          "family": "Chipeta",
+          "given": "Michael Give"
+        },
+        {
+          "family": "Stanton",
+          "given": "Michelle"
+        }
+      ],
+      "year": "2026",
+      "journal": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.21203/rs.3.rs-10394946/v1",
+      "abstract": "Abstract Background Reliable measurement of temporal changes in malaria prevalence is essential for evaluating the performance of control programs. However, spatial heterogeneity in transmission and the resampling of survey locations across years can introduce substantial uncertainty into prevalence estimates. This study quantifies the impact of resampling enumeration areas (EAs) on the precision of estimated changes in malaria prevalence over time. Methods Using modelled Plasmodium falciparum prevalence maps for Malawi from 2010 to 2017, we simulated 100 Malaria Indicator Survey (MIS) EA draws to assess annual uncertainty and to compare two sampling frameworks: a resampled design, where EAs were independently selected for each year, and a fixed design, where the same EAs were retained across years. Results Simulation of single-year MIS draws revealed substantial variability in prevalence estimates arising solely from random spatial resampling. Regional estimates were particularly affected, with the Northern Region showing the widest range of simulated prevalence values, up to 12.9 percentage points. The fixed design consistently reduced the variance of estimated changes between survey years, while the central tendency of prevalence remained unchanged. In contrast, the resampled design amplified variability, indicating that changing survey locations introduces spatial noise that can obscure true temporal trends Conclusion Random resampling of EAs between MIS rounds reduces the reliability of inferred temporal trends by introducing unnecessary spatial variability. Incorporating fixed or partially fixed EAs across survey years could improve the precision of prevalence estimates and strengthen the validity of program evaluations, particularly in increasingly heterogeneous, low-transmission settings.",
+      "publication_types": [
+        "Preprint"
+      ],
+      "open_access": true,
+      "url": "https://europepmc.org/article/PPR/PPR1300167",
+      "warnings": [
+        "Journal unavailable; verify publication type before submitting."
+      ],
+      "matched_terms": [
+        "malaria"
+      ],
+      "context_overlap": 0.3333
+    },
+    {
+      "id": "PMC:PMC13656955",
+      "title": "Data-based modeling analysis of transfusion-transmitted malaria",
+      "authors": [],
+      "year": "2026",
+      "journal": "Infectious Disease Modelling",
+      "volume": "12",
+      "issue": "1",
+      "pages": "193-210",
+      "doi": "",
+      "abstract": "",
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "open_access": true,
+      "url": "https://europepmc.org/article/PMC/PMC13656955",
+      "warnings": [
+        "Structured authors unavailable; no names inferred from authorString.",
+        "Abstract unavailable; context matching uses title only."
+      ],
+      "matched_terms": [
+        "malaria"
+      ],
+      "context_overlap": 0.3333
+    }
+  ]
+}

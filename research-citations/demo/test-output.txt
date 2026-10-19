@@ -1,0 +1,23 @@
+test_bad_doi_omitted (test_citations.CitationsTest.test_bad_doi_omitted) ... ok
+test_context_stays_local_and_query_encoded (test_citations.CitationsTest.test_context_stays_local_and_query_encoded) ... ok
+test_csl_and_ris_exports (test_citations.CitationsTest.test_csl_and_ris_exports) ... ok
+test_duplicate_doi_case_insensitive (test_citations.CitationsTest.test_duplicate_doi_case_insensitive) ... ok
+test_empty_result_valid (test_citations.CitationsTest.test_empty_result_valid) ... ok
+test_export_requires_valid_selected_ids (test_citations.CitationsTest.test_export_requires_valid_selected_ids) ... ok
+test_http_400_not_retried (test_citations.CitationsTest.test_http_400_not_retried) ... ok
+test_invalid_inputs_do_not_call_network (test_citations.CitationsTest.test_invalid_inputs_do_not_call_network) ... ok
+test_invalid_records_warn_or_fail (test_citations.CitationsTest.test_invalid_records_warn_or_fail) ... ok
+test_missing_fields_are_not_fabricated (test_citations.CitationsTest.test_missing_fields_are_not_fabricated) ... ok
+test_normalize_unicode_authors_and_markup (test_citations.CitationsTest.test_normalize_unicode_authors_and_markup) ... ok
+test_ranking_and_ties (test_citations.CitationsTest.test_ranking_and_ties) ... ok
+test_rate_limit_retry (test_citations.CitationsTest.test_rate_limit_retry) ... ok
+test_retraction_warning (test_citations.CitationsTest.test_retraction_warning) ... ok
+test_retry_exhaustion_and_long_retry_after (test_citations.CitationsTest.test_retry_exhaustion_and_long_retry_after) ... ok
+test_ris_field_newlines_do_not_inject_records (test_citations.CitationsTest.test_ris_field_newlines_do_not_inject_records) ... ok
+test_size_limit (test_citations.CitationsTest.test_size_limit) ... ok
+test_transport_and_invalid_json (test_citations.CitationsTest.test_transport_and_invalid_json) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.008s
+
+OK
