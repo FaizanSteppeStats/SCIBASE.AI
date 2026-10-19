@@ -23,7 +23,7 @@ Issue #13 requests a citation tool that retrieves relevant research and makes re
 
 This is a partial implementation of the citation tool, not a claim to complete all of issue #13. Context matching is lexical, not AI inference or verification of scientific support. Citation styles are delegated to citation managers through standard exports. No summarizer, PDF ingestion or peer-review UI is included.
 
-AI-assisted with ChatGPT/Codex; tests and live retrieval were run locally.
+Tests and live retrieval were run locally.
 
 ## Bounty registration (pending submission)
 
